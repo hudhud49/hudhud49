@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @hudhud49
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning C nad Javascript
-- 💞️ I’m looking to collaborate on anything
+- 👋 Hi, I’m Ahmad Hudaihed
+- 👀 I am a Computer Science Pre-Med student attending Rutgers University.
+- 🌱 Here I have the code posted for my Dna --> Amino acid conversion app as well as other codes.
+- 💞️ Enjoy!!!
 - 📫 How to reach me: ahmadhudaihed@gmail.com
 
 <!---
